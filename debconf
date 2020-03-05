@@ -1,0 +1,5 @@
+fahclient fahclient/autostart boolean true
+fahclient fahclient/power select full
+fahclient fahclient/team string 0
+fahclient fahclient/passkey string 
+fahclient fahclient/user string synack
